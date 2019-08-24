@@ -119,7 +119,7 @@ fix(Create Wallet): Fix email validation
 
 For a full list of supported types, see [.changelogrc](https://github.com/blockchain/My-Wallet-V3-iOS/blob/dev/.changelogrc#L6...L69).
 
-# License
+# License 
 
 Source Code License: LGPL v3
 
